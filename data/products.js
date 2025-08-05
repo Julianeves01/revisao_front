@@ -4,7 +4,7 @@ export const productsData = [
         title: 'iPhone 15 Pro Max 256GB',
         price: 'R$ 8.999,00',
         description: 'O mais avançado iPhone já criado, com chip A17 Pro e sistema de câmeras profissional.',
-        image: '/iphonee15.jpg',
+        image: '/image/iphone15ProMax.jpeg',
         altImage: 'iPhone 15 Pro Max',
         rating: {
             stars: 5,

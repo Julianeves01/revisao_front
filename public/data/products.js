@@ -141,11 +141,11 @@ export const productsData = [
     },
     {
         id: 11,
-        title: 'Google Pixel 8 Pro 256GB',
-        price: 'R$ 4.299,00',
-        description: 'Câmera de última geração com IA, tela OLED fluida e desempenho rápido com Tensor G3.',
-        image: '/image/Pixel8pro.webp',
-        altImage: 'Google Pixel 8 Pro',
+        title: 'Iphone 16 Pro Max 512GB',
+        price: 'R$ 10.299,00',
+        description: 'Potente e sofisticado, o iPhone 16 Pro Max traz o novo chip A18 Pro, câmera de nível profissional, tela Super Retina XDR e bateria duradoura. Ideal para quem busca o máximo em desempenho e inovação.',
+        image: '/image/iphone16Pro.webp',
+        altImage: 'Iphone 16 Pro Max',
         rating: {
             stars: 5,
             count: 4.6,
@@ -155,11 +155,11 @@ export const productsData = [
     },
     {
         id: 12,
-        title: 'OnePlus 11 16GB RAM 256GB',
-        price: 'R$ 3.499,00',
-        description: 'Desempenho topo de linha com Snapdragon 8 Gen 2, tela AMOLED 120Hz e carregamento rápido 100W.',
-        image: '/image/onePlus11.jpg',
-        altImage: 'OnePlus 11',
+        title: 'Caixa de Som JBL Boombox, 60 watts',
+        price: 'R$ 2.589,00',
+        description: 'Com som potente, graves profundos e até 24h de bateria, a JBL Boombox é perfeita para curtir músicas em qualquer lugar. Resistente à água (IPX7) e com Bluetooth.',
+        image: '/image/jblBoombox.webp',
+        altImage: 'Caixa de Som JBL Boombox',
         rating: {
             stars: 5,
             count: 4.4,

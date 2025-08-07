@@ -22,7 +22,7 @@ const ProductCard = ({ product }) => {
             <div className={styles.productDescription}>{product.description}</div>
             <div className={styles.productrating}>
                 <span className={styles.stars}>⭐⭐⭐⭐⭐</span>
-                <span>(4.8) - 1.234 avaliações</span>
+                <span>(4.6) - 4.754 avaliações</span>
             </div>
         </div>
     );

@@ -1,7 +1,16 @@
 .header {
     text-align: center;
-    background: #333;
+    background: #333333c9;
     color: #fff;
     padding: 40px;
     margin-bottom: 30px;
 }
+
+.header h1 {
+    margin-bottom: 17px;
+}
+
+.header p {
+    margin-bottom: 15px;
+}
+

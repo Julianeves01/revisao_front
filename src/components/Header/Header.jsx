@@ -7,7 +7,7 @@ const Header = ({titulo, descricao}) => {
         <div className={styles.header}>
             <h1>{tituloExibido}</h1>
             <p>{descricaoExibida}</p>
-            <p>📊 Total de produtos: <span id="totalProducts">0</span></p>
+            <p>📊 Total de produtos: <span id="totalProducts">10</span></p>
         </div>
     );
 }

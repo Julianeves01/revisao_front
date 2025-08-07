@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from 'react';
 import styles from './page.module.css';
-import { productsData } from '../../data/products.js';
+import { productsData } from '../../public/data/products.js';
 import ProductCard from '@/components/ProductCard/ProductCard.jsx'
 
 export default function HomePage() {
